@@ -1,0 +1,3 @@
+/home/beko/Desktop/UNI/CG/cg/aula4/build/CMakeFiles/class4.dir
+/home/beko/Desktop/UNI/CG/cg/aula4/build/CMakeFiles/edit_cache.dir
+/home/beko/Desktop/UNI/CG/cg/aula4/build/CMakeFiles/rebuild_cache.dir
